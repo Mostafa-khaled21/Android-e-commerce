@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_account.xml" value="0.25" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_detaills.xml" value="0.1" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_explore.xml" value="0.1" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_fruits.xml" value="0.33" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_home_screen.xml" value="0.1" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_location.xml" value="0.1" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/rec.xml" value="0.33" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/rec_cart.xml" value="0.33" />
+        <entry key="..\:/Desktop/New folder (3)/ecom/app/src/main/res/layout/rec_product.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable-v24/rec.xml" value="0.1295" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable-v24/round.xml" value="0.1445" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/edit.xml" value="0.1295" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/editseletor.xml" value="0.1295" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/ov.xml" value="0.1" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/recl.xml" value="0.1445" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/rect.xml" value="0.1445" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/drawable/roundacc.xml" value="0.1445" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_account.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_backery.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_beverages.xml" value="0.11" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_cart.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_checkout.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_cookingoil.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_dairy.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_detaills.xml" value="0.1" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_explore.xml" value="0.16" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_fav.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_fruits.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_home_screen.xml" value="0.18" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_location.xml" value="0.2" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_massage_confirm.xml" value="0.2" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_meat.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_numphone.xml" value="0.15" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_numphone2.xml" value="0.33" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_oeder_accepted.xml" value="0.17988165680473372" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_reg.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/product_cell.xml" value="0.15" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/rec.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/rec_cart.xml" value="0.25" />
+        <entry key="..\:/Users/ABKRINO_PC/AndroidStudioProjects/ecom/app/src/main/res/layout/rec_product.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

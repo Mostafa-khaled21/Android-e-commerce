@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.Cart">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="15dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:orientation="horizontal">
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/shop"
+                android:layout_width="75dp"
+                android:background="@color/white"
+                android:layout_height="match_parent"
+                android:drawableTop="@drawable/f1"
+                android:text="Shop"
+                android:textSize="10sp"
+                android:textIsSelectable="true"
+                android:textColor="@color/luma"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/explore"
+                android:layout_width="75dp"
+                android:background="@color/white"
+                android:layout_height="match_parent"
+                android:drawableTop="@drawable/f2"
+                android:text="Explore"
+                android:textSize="10sp"
+
+                android:textIsSelectable="true"
+                />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/cart"
+                android:layout_width="75dp"
+                android:background="@color/white"
+                android:layout_height="match_parent"
+                android:drawableTop="@drawable/f3"
+                android:text="Cart"
+                android:textSize="10sp"
+                android:textIsSelectable="true"
+                />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/fav"
+                android:layout_width="75dp"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:drawableTop="@drawable/f4"
+                android:text="Favourite"
+                android:textSize="10sp"
+
+                android:textIsSelectable="true" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/acc"
+                android:layout_width="75dp"
+                android:background="@color/white"
+                android:textSize="12sp"
+                android:layout_height="match_parent"
+                android:drawableTop="@drawable/f5"
+                android:text="Account"
+                android:textIsSelectable="true"
+                />
+        </LinearLayout>
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="My Cart"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_margin="15dp"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rec_cart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="40dp"
+
+            android:layout_marginBottom="25dp"
+            android:id="@+id/checkout"
+            android:background="@drawable/rec"
+            android:text="Go to Checkout"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

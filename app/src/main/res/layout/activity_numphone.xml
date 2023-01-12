@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.numphone">
+
+
+    <ImageView
+        android:id="@+id/imgg"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ffrist" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_gravity="top"
+            android:layout_height="wrap_content"
+            android:paddingLeft="250dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/logoo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ffrist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgg"
+        android:gravity="top"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="25dp"
+            android:text="@string/login1"
+            android:textColor="@color/black"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent">-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+
+<!--        android:orientation="vertical">-->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:id="@+id/ssecond"
+        android:layout_below="@id/ffrist"
+        android:paddingLeft="30dp"
+
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:src="@drawable/flageg"/>
+
+        <EditText
+            android:id="@+id/num_numphone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#53B175"
+            android:ems="13"
+            android:inputType="numberSigned"
+            android:text="" />
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ssecond"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vectorr"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Or connect with social media" />
+
+       <androidx.appcompat.widget.AppCompatButton
+           android:id="@+id/btnWithGoogel"
+           android:layout_width="250dp"
+           android:layout_height="50dp"
+           android:background="@drawable/googlee"
+           android:layout_marginTop="15dp"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnWithFacebook"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:background="@drawable/facebookk"
+            android:layout_marginTop="15dp"/>
+
+    </LinearLayout>
+<!--    </LinearLayout>-->
+<!--    </ScrollView>-->
+</RelativeLayout>
